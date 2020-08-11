@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44355" started-at="2020-08-07T20:06:37Z" finished-at="2020-08-07T20:07:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44355" started-at="2020-08-07T20:06:37Z" finished-at="2020-08-07T20:07:21Z">
+      <class name="csvFileReading.CSVFileReading">
+        <test-method status="PASS" signature="setup()[pri:0, instance:csvFileReading.CSVFileReading@3ecf72fd]" name="setup" is-config="true" duration-ms="9043" started-at="2020-08-08T01:36:37Z" finished-at="2020-08-08T01:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="locatorsTestingBlog()[pri:0, instance:csvFileReading.CSVFileReading@3ecf72fd]" name="locatorsTestingBlog" duration-ms="35286" started-at="2020-08-08T01:36:46Z" finished-at="2020-08-08T01:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locatorsTestingBlog -->
+      </class> <!-- csvFileReading.CSVFileReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
